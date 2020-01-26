@@ -1,4 +1,4 @@
-# ihmAdminDjango
+## Momento git command
 
 **If it's your first time to use Git, please follow instructions bellow**
 
